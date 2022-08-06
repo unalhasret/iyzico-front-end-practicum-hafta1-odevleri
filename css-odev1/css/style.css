@@ -1,0 +1,62 @@
+
+.pia div{
+    width: 450px;
+    height: 450px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+.guitar div{
+    width: 450px;
+    height: 570px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+.drum div{
+    width: 500px;
+    height: 460px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+.vio div{
+    width: 450px;
+    height: 570px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+.side-by-side-center {
+    text-align: center;
+}
+.side-by-side-center li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 15px;
+    text-align: center;
+}
+
+
+.clear{
+    clear: both;
+}
+
+img{
+    display: block;
+    margin: auto;
+
+}
+h1, h2{
+    text-align: center;
+}
+h4{
+    font-style: italic;
+}
+
+#list-center{
+    width: 175px;
+    margin: 0 auto;
+}
